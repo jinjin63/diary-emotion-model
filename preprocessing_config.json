@@ -1,0 +1,10 @@
+{
+  "max_length": 60,
+  "max_words": 599,
+  "padding": "post",
+  "truncating": "post",
+  "char_level": true,
+  "oov_token": "<OOV>",
+  "lower": false,
+  "filters": ""
+}
